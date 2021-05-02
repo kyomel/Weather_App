@@ -1,0 +1,25 @@
+{
+  "name": "weather-apps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyomel/Weather_App.git"
+  },
+  "keywords": [
+    "Kyomel"
+  ],
+  "author": "Kyomel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyomel/Weather_App/issues"
+  },
+  "homepage": "https://github.com/kyomel/Weather_App#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
